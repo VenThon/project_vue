@@ -13,9 +13,10 @@ import { RouterLink, RouterView } from 'vue-router'
               <div class="header_left">
                   <h1>Couple Shop</h1>
                   <ul>
-                    <li><a href="#product1">Product1</a></li>
-                    <li><a href="#product2">Product2</a></li>
-                    <li><a href="#product3">Product3</a></li>
+                    <li><a href="#shoes">Shoes</a></li>
+                    <li><a href="#watch">Watch</a></li>
+                    <li><a href="#men">Men</a></li>
+                    <li><a href="#wowmen">Women</a></li>
                   </ul>
               </div>
               <div class="header_right">
@@ -49,21 +50,21 @@ import { RouterLink, RouterView } from 'vue-router'
                 
             </div>
             <div class="sub_content1">
-                <img src="./img/p1.jpg" alt="">
+                <img src="./img/p2.jpg" alt="">
                 <p>Cloths Couple</p>
                 <div class="btn_order">
                   <button>Boy Now</button>
                 </div>
             </div>
             <div class="sub_content1">
-                <img src="./img/p1.jpg" alt="">
+                <img src="./img/p3.jpg" alt="">
                 <p>Cloths Couple</p>
                 <div class="btn_order">
                   <button>Boy Now</button>
                 </div>
             </div>
             <div class="sub_content1">
-                <img src="./img/p1.jpg" alt="">
+                <img src="./img/p4.jpg" alt="">
                 <p>Cloths Couple</p>
                 <div class="btn_order">
                   <button>Boy Now</button>
@@ -72,7 +73,7 @@ import { RouterLink, RouterView } from 'vue-router'
         </div>
         <div class="content">
             <div class="sub_content1">
-                <img src="./img/p1.jpg" alt="">
+                <img src="./img/p5.jpg" alt="">
                 <p>Cloths Couple</p>
                 <div class="btn_order">
                   <button>Boy Now</button>
@@ -80,21 +81,21 @@ import { RouterLink, RouterView } from 'vue-router'
                 
             </div>
             <div class="sub_content1">
-                <img src="./img/p1.jpg" alt="">
+                <img src="./img/p6.jpg" alt="">
                 <p>Cloths Couple</p>
                 <div class="btn_order">
                   <button>Boy Now</button>
                 </div>
             </div>
             <div class="sub_content1">
-                <img src="./img/p1.jpg" alt="">
+                <img src="./img/p7.jpg" alt="">
                 <p>Cloths Couple</p>
                 <div class="btn_order">
                   <button>Boy Now</button>
                 </div>
             </div>
             <div class="sub_content1">
-                <img src="./img/p1.jpg" alt="">
+                <img src="./img/p9.jpg" alt="">
                 <p>Cloths Couple</p>
                 <div class="btn_order">
                   <button>Boy Now</button>
